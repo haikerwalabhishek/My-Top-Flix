@@ -10,7 +10,7 @@ This project serves as a practical exercise for learning full-stack web developm
 ## Link:
 
 
-[https://haikerwalabhishek.github.io/HTML-BLOG/](https://haikerwalabhishek.github.io/HTML-BLOG/)
+[https://haikerwalabhishek.github.io/My-Top-Flix/](https://haikerwalabhishek.github.io/My-Top-Flix/)
 
 ## Preview:
 
