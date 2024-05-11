@@ -16,5 +16,5 @@ This project serves as a practical exercise for learning full-stack web developm
 
 
 <img src="https://github.com/haikerwalabhishek/My-Top-Flix/blob/main/preview1.png" height=300px width=500px>
-<img src="https://github.com/haikerwalabhishek/My-Top-Flix/blob/main/preview1.png" height=300px width=500px>
+<img src="https://github.com/haikerwalabhishek/My-Top-Flix/blob/main/preview2.png" height=300px width=500px>
 
